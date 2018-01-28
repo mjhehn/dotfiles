@@ -1,0 +1,3 @@
+color-window "#292826, #292826, #292826"
+color-normal "#292826, white, #292826, #ac1512, white"
+color-active "#292826, #ac1512, #292826, #ac1512, white"

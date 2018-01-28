@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Ziggy/.wallpapers/1.jpg",
+
+    "special": {
+        "background": "#0c0b0a",
+        "foreground": "#f6f5fe",
+        "cursor": "#e3e2eb"
+    },
+    "colors": {
+        "color0": "#0c0b0a",
+        "color1": "#6B889B",
+        "color2": "#D7D6D2",
+        "color3": "#E2E1DD",
+        "color4": "#C7B3B6",
+        "color5": "#A2A1A0",
+        "color6": "#E1DCD8",
+        "color7": "#e3e2eb",
+        "color8": "#1f1d1a",
+        "color9": "#81bfe8",
+        "color10": "#fefede",
+        "color11": "#fefede",
+        "color12": "#fecad5",
+        "color13": "#e9d3bc",
+        "color14": "#fef6db",
+        "color15": "#f6f5fe"
+    }
+}

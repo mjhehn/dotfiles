@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Ziggy/.wallpapers/LJUHM6J-persona-3-fes-wallpaper.jpg",
+
+    "special": {
+        "background": "#09090E",
+        "foreground": "#f8f9fb",
+        "cursor": "#dedfe1"
+    },
+    "colors": {
+        "color0": "#09090E",
+        "color1": "#494A6F",
+        "color2": "#4E5D6A",
+        "color3": "#7C727F",
+        "color4": "#3E6D82",
+        "color5": "#50778A",
+        "color6": "#9DA1AA",
+        "color7": "#dedfe1",
+        "color8": "#161624",
+        "color9": "#6264b9",
+        "color10": "#6a90b1",
+        "color11": "#b890c4",
+        "color12": "#4fabd4",
+        "color13": "#64b3d9",
+        "color14": "#b7caf3",
+        "color15": "#f8f9fb"
+    }
+}

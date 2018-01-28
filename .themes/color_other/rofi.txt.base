@@ -1,0 +1,3 @@
+color-window "#COLOR0, #COLOR0, #COLOR0"
+color-normal "#COLOR0, white, #COLOR0, #COLORACT, white"
+color-active "#COLOR0, #COLORACT, #COLOR0, #COLORACT, white"

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/Ziggy/.wallpapers/dFF5MCG0zqmVfiST0CC2laHa1Gszc4ZS6wlEmPEZ4JU.png",
+
+    "special": {
+        "background": "#050505",
+        "foreground": "#f9f9fa",
+        "cursor": "#d6d6d7"
+    },
+    "colors": {
+        "color0": "#050505",
+        "color1": "#C8B5A3",
+        "color2": "#A58D70",
+        "color3": "#D3B949",
+        "color4": "#D1AD24",
+        "color5": "#AEA093",
+        "color6": "#D7C9B1",
+        "color7": "#d6d6d7",
+        "color8": "#171717",
+        "color9": "#fee6b8",
+        "color10": "#f3c185",
+        "color11": "#fefe4f",
+        "color12": "#fefd21",
+        "color13": "#f9d1ab",
+        "color14": "#fefec5",
+        "color15": "#f9f9fa"
+    }
+}
