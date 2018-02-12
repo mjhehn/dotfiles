@@ -1,0 +1,7 @@
+[user]
+	email = mjhehn@gmail.com
+	name = Matt Hehn
+[core]
+	editor = vim
+[push]
+	default = matching

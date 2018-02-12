@@ -116,3 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 export DISPLAY=:0.0
+#export PS1="\[$(tput bold)\]\[\033[38;5;4m\]\u\[$(tput sgr0)\]\[$(tput sgr0)\]\[\033[38;5;10m\]:\w-> \[$(tput sgr0)\]"
+export PS1="\[\e[0;31m\]\u \[\e[0;38m\]\w\[\e[0;36m\]: \[\e[0m\]"
