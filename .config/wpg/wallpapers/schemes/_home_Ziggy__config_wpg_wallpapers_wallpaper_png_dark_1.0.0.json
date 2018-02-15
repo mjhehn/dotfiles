@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/Ziggy/.config/wpg/wallpapers/wallpaper.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0b0a",
+        "foreground": "#fdffff",
+        "cursor": "#e6e8e7"
+    },
+    "colors": {
+        "color0": "#0c0b0a",
+        "color1": "#71899C",
+        "color2": "#A3A3A1",
+        "color3": "#C7BBBA",
+        "color4": "#D6D6D2",
+        "color5": "#E1DDD8",
+        "color6": "#E2E1DD",
+        "color7": "#e6e8e7",
+        "color8": "#221f1c",
+        "color9": "#81b4dc",
+        "color10": "#e8e8bc",
+        "color11": "#ffded8",
+        "color12": "#ffffe3",
+        "color13": "#ffffe0",
+        "color14": "#ffffe2",
+        "color15": "#fdffff"
+    }
+}

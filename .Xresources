@@ -47,6 +47,6 @@ XClock*hourColor:   rgba:c5/c8/c6/ff
 XClock*minuteColor: rgba:c5/c8/c6/ff
 XClock*secondColor: rgba:c5/c8/c6/ff
 
-#include "urxvtconfig"
+#include ".config/urxvtconfig"
 
 

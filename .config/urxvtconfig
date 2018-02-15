@@ -1,5 +1,5 @@
 URxvt.scrollBar: false
-URxvt.font: xft:monospace:size=12
+URxvt.font: xft:FantasqueSansMono-Regular:size=14:antialias=true,xft:Inconsolata:size=12:antialias=true
 URxvt.cursorBlink: true
 URxvt.internalBorder: 10
 URxvt.intensityStyles: true
