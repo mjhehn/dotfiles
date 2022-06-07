@@ -1,0 +1,21 @@
+{
+    "name": "Solarized Dark",
+    "is_dark": true,
+    "colors": {
+        "accent-color": "#ffd484",
+        "primary-color": "#39465e",
+        "warning-color": "#dc322f",
+        "sidebar-color": "#232c3b",
+        "roomlist-background-color": "#073642",
+        "roomlist-text-color": "#d0d2d1",
+        "roomlist-text-secondary-color": "#93a1a1",
+        "roomlist-highlights-color": "#586e75",
+        "timeline-background-color": "#232c3b",
+        "timeline-text-color": "#d0d2d1",
+        "secondary-content": "#d0d2d1",
+        "tertiary-content": "#d0d2d1",
+        "timeline-text-secondary-color": "#586e75",
+        "timeline-highlights-color": "#073642",
+        "reaction-row-button-selected-bg-color": "#39465e"
+    }
+}
